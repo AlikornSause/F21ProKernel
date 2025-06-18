@@ -1,0 +1,3 @@
+Install these packages:
+	dtc (device-tree-compiler)
+	aarch64-linux-gnu-gcc
